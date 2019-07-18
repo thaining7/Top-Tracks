@@ -13,6 +13,4 @@ Search a country anywhere in the world to find it's top 10 most popular music tr
 
 #### Technologies Used Include:
 * Spotify API
-* Google Earth API
 * Google Maps API
-* Open Map API
