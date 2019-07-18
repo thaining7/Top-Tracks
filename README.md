@@ -16,3 +16,4 @@ https://thaining7.github.io/Top-Tracks/
 #### Technologies Used Include:
 * Spotify API
 * Google Maps API
+* Materialize CSS
