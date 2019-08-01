@@ -24,6 +24,10 @@ https://thaining7.github.io/Top-Tracks/
 * Google Maps API
 * Spotify API
 
+# Features
+
+#### Sample songs using the embedded music player
+
 # Code Example
 
 #### When the "Submit" button is clicked:
