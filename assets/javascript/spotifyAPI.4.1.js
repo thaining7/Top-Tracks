@@ -127,6 +127,7 @@ $(document).ready(function () {
         var outputTracks = $("<tr>")
             .append("<td>" + firstArtist + "</td>")
             .append("<td>" + trackName + "</td>")
+            .append("<td>" + ctyName + "</td>")
             .append("<td>" + "<iframe src=" + songURL + song_ID + " " + "width='80' height='80' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>"  + "</td>");
             $("#results-table").append(outputTracks);
         });
