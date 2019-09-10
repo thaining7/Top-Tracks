@@ -50,6 +50,11 @@ $("#add-country").on("click", function (event) {
     });
 ```
 
+# Screenshots
+
+![App Screenshot](/assets/images/Screenshot.png)
+
 # How to Use
 
-#### Enter your first and last name, select a Country of your choice from the drop down menu and click the "Submit" button. The application will display the top 10 most popular tracks from the Spotify API and load the location on Google Maps.
+* Enter your first and last name, select a Country of your choice from the drop down menu and click the "Submit" button. 
+* The application will display the top 10 most popular tracks from the Spotify API and load the location on Google Maps.
