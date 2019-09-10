@@ -23,6 +23,7 @@ https://thaining7.github.io/Top-Tracks/
 * Materialize CSS
 * Google Maps API
 * Spotify API
+* Firebase
 
 # Features
 
