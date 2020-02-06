@@ -1,20 +1,21 @@
 # Top Tracks
 
-#### Search a country anywhere in the world to find it's top 10 most popular music tracks!
+Search a country anywhere in the world to find it's top 10 most popular music tracks!
 
 https://thaining7.github.io/Top-Tracks/
 
-#### Team Members:
+## Team Members:
+
 * Leevie Martin
 * Robert Chen
 * Dmitriy Petrenko
 * Trevor Haining
 
-# Motivation
+## Description
 
-#### Provide a data snapshot of a country’s collective popular music preferences from which one can gain perspective of a nation’s culture
+Provide a data snapshot of a country’s collective popular music preferences from which one can gain perspective of a nation’s culture
 
-# Technologies Used:
+## Technologies Used:
 
 * Node.js
 * Express.js
@@ -25,13 +26,13 @@ https://thaining7.github.io/Top-Tracks/
 * Spotify API
 * Firebase
 
-# Features
+## Features
 
-#### Sample songs using the embedded music player
+Sample songs using the embedded music player
 
-# Code Example
+## Code Example
 
-#### When the "Submit" button is clicked:
+When the "Submit" button is clicked:
 ```
 $("#add-country").on("click", function (event) {
         event.preventDefault();
@@ -51,11 +52,12 @@ $("#add-country").on("click", function (event) {
     });
 ```
 
-# Screenshots
+## Screenshots
 
 ![App Screenshot](/assets/images/Screenshot.png)
 
-# How to Use
+## How to Use
 
-* Enter your first and last name, select a Country of your choice from the drop down menu and click the "Submit" button. 
-* The application will display the top 10 most popular tracks from the Spotify API and load the location on Google Maps.
+* Enter your first and last name 
+* Select a Country of your choice from the drop down menu and click the "Submit" button 
+* The application will display the top 10 most popular tracks from the Spotify API and load the location on Google Maps
