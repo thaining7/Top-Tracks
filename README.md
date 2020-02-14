@@ -17,8 +17,6 @@ Provide a data snapshot of a country’s collective popular music preferences fr
 
 ## Technologies Used:
 
-* Node.js
-* Express.js
 * JavaScript
 * jQuery
 * Materialize CSS
